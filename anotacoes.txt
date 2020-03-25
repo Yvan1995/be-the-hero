@@ -1,0 +1,13 @@
+Frameworks = > React (frontend)
+
+
+
+**libs(Frameworks) => express (no backend)** 
+backend observaçoes => {
+    nodemon => instalado como uma devdependencie.(-D)
+    knex,
+    SQlite,
+    cors
+}
+
+devido a complicações coom o NPM, algumas dependencias foram baixadas com YARN
